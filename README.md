@@ -1,5 +1,7 @@
 # Marcel, the french Docker - Marcel, le docker français
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/marcel.svg)](https://www.guardrails.io)
+
 ![logo](https://raw.githubusercontent.com/brouberol/marcel/master/logo.png)
 
 Marcel is a french wrapper around the docker CLI, intended as a drop-in replacement of docker, for the future french sovereign operating system.
